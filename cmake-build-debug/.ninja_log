@@ -1,0 +1,6 @@
+# ninja log v5
+271	343	1712401832829905717	OS_lab_4_Panch	8e16fd02c81c109
+1	271	1712401832757904755	CMakeFiles/OS_lab_4_Panch.dir/main.cpp.o	bcbd58dd78d9fb4f
+1	293	1712402934758685000	CMakeFiles/OS_lab_4_Panch.dir/main.cpp.o	bcbd58dd78d9fb4f
+1	228	1712405390965351272	CMakeFiles/OS_lab_4_Panch.dir/TargetProcess.cpp.o	be57a50144ee7f22
+1	377	1712405391113352748	CMakeFiles/OS_lab_4_Panch.dir/ObserverProcess.cpp.o	40e4d4a9a33ca9f0

@@ -1,0 +1,3 @@
+/home/bodyaxaxis/CLionProjects/OS_lab_4_Panch/cmake-build-debug/CMakeFiles/OS_lab_4_Panch.dir
+/home/bodyaxaxis/CLionProjects/OS_lab_4_Panch/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bodyaxaxis/CLionProjects/OS_lab_4_Panch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
